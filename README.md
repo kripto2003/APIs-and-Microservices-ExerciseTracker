@@ -1,2 +1,5 @@
-# https-github.com-kripto2003-APIs-and-Microservices-URL_ShortenerMicroservice
-APIs and Microservices Projects - "APIs and Microservices Projects - URL Shortener Microservice"
+# Exercise Tracker REST API
+
+#### A microservice project, part of Free Code Camp's curriculum
+
+
